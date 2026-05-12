@@ -17,9 +17,18 @@ Bu sayfa, sıradan bir okuma listesi, popüler bir kişisel gelişim zırvası v
 Bu arşiv, teoriden pratiğe, kadim köklerden modern mitlere kadar geniş bir spektrumda yapılandırılmıştır. Her bir başlık, iç kalenin farklı bir savunma hattını temsil eder:
 
 1.  **[📜 Nazariyat (Teorik Çerçeve)](nazariyat/)**: Zihinsel egemenliğin ontolojik temelleri.
+    *   [Kontrol Dikotomisi](nazariyat/kontrol-dikotomisi.md)
+    *   [Amor Fati ve Kozmos](nazariyat/amor-fati-ve-kozmos.md)
+    *   [Logos ve Evrensel Fizik](nazariyat/logos-ve-evrensel-fizik.md)
+    *   [Mantık ve Onay Disiplini](nazariyat/mantik-ve-onay-disiplini.md)
 2.  **[⚔️ Amelyat (Pratik Cephanelik)](amelyat/)**: Felsefeyi eyleme dönüştüren günlük egzersizler.
+    *   [Günlük Rutinler](amelyat/gunluk-rutinler.md)
+    *   [Gönüllü Zorluk](amelyat/gonullu-zorluk-protokolleri.md)
+    *   [Dijital Direniş](amelyat/dijital-detoks-ve-odaklanma.md)
+    *   [30 Günlük Kamp](amelyat/30-gunluk-zihinsel-kamp-rehberi.md)
 3.  **[🐉 Modern Mitler](modern_mitler/)**: Kadim ilkelerin Samuray Jack gibi modern anlatılardaki yansımaları.
 4.  **[🏺 Kökler (Büyük Üstadlar)](kokler/)**: Seneca, Epiktetos ve Marcus Aurelius'un mirası.
+5.  **[📖 Kütüphane (Temel Kaynaklar)](kutuphane/)**: Meditasyonlar, Ahlaki Mektuplar ve özetler.
 
 ---
 
@@ -136,7 +145,10 @@ Epiktetos tarafından sistemleştirilen bu üç disiplin, Stoacı yaşamın oper
 Modern dünya, zihnimizi ele geçirmek için tasarlanmış devasa bir algoritmadır. 
 *   **Dopamin Döngülerini Kırmak:** Anlık bildirimler ve sonsuz kaydırma, iradeyi felç eder. Telefonunu bir "araç" olarak kullan, onun kölesi olma.
 *   **Bilgi Obezitesinden Kaçış:** Her şeyi bilmek zorunda değilsin. Sadece senin karakterini geliştirecek olan bilgilere odaklan.
-*   **Sanal Onay Köleliği:** Sosyal medyadaki "beğeniler", Epiktetos'un "başkalarının düşünceleri" kategorisindedir. Onların varlığı seni büyütmez, yokluğu seni küçültmez.
+*   **Sanal Onay Köleliği:** Sosyal medyadaki "beğeniler", Epiktetos'un "başkalarının düşünceleri" kategorisindedir.
+
+> [!TIP]
+> Daha detaylı stratejiler için: **[Dijital Direniş Rehberi](amelyat/dijital-detoks-ve-odaklanma.md)**
 
 ---
 
@@ -156,6 +168,9 @@ Modern dünya, zihnimizi ele geçirmek için tasarlanmış devasa bir algoritmad
 2.  **8-14. Gün:** Gönüllü Zorluk uygulamaya başla. (Soğuk duş, bir öğün atlama).
 3.  **15-21. Gün:** Akşam Muhasebesi rutini oluştur. Kendini dürüstçe yargıla.
 4.  **22-30. Gün:** Sessiz İcraat. Bir hafta boyunca hiçbir planını veya başarını kimseye anlatma. Sadece yap.
+
+> [!IMPORTANT]
+> Tam program ve günlük görevler için: **[30 Günlük Kamp Rehberi](amelyat/30-gunluk-zihinsel-kamp-rehberi.md)**
 
 ---
 
